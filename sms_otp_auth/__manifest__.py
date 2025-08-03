@@ -8,11 +8,18 @@
     'category': 'Extra Tools/Authentication',
     'summary': "Module for SMS-based OTP Authentication",
     'description': """
-        SMS OTP Auth module enables authentication using One-Time Passwords (OTP) via SMS. It includes:
-            - Mobile number login/signup
-            - OTP verification mechanism
-            - Security and validation
-            - Integration support with other modules
+    <h2>Overview</h2>
+    <p>This module adds awesome features for managing your custom workflow.</p>
+
+    <h3>Main Features</h3>
+    <ul>
+        <li>Feature 1: Easy integration</li>
+        <li>Feature 2: Clean interface</li>
+        <li>Feature 3: Lightweight and fast</li>
+    </ul>
+
+    <h3>Usage</h3>
+    <p>After installing, go to the menu and configure your options.</p>
     """,
     'depends': [
         'base', 'portal', 'auth_signup', 'mail'
